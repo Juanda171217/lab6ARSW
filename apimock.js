@@ -1,4 +1,4 @@
-//@author hcadavid
+//@author Santiago Fetecua y Juan Martinez
 
 apimock = (function () {
 
